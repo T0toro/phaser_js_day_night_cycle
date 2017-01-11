@@ -1,0 +1,11 @@
+{
+  "name": "phaser_js_day_night_cycle",
+  "version": "0.0.1",
+  "description": "Phaser Day & Night Cycle plugin",
+  "main": "index.js",
+  "author": "Evgeniy Troynov",
+  "license": "MIT",
+  "dependencies": {
+    "phaser": "^2.6.2"
+  }
+}
